@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif !important;
+  text-align: center;
+}
+
+.addNewShopBtn {
+  background-color: black;
+  color: white;
+  font-size: 18px;
+  border-radius: 50%;
+  position: absolute;
+  top: 18px;
+  right: 20px;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+.rs-modal-content {
+  max-width: 90vw;
+  margin-left: 5vw;
+}
